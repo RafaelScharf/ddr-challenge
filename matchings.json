@@ -8,5 +8,17 @@
     "id": 2,
     "gravacaoId": 2,
     "tabulacaoId": 1
+  },
+  {
+    "id": 3,
+    "gravacaoId": 4,
+    "tabulacaoId": 3
+  },
+  {
+    "id": 4,
+    "gravacaoId": 3,
+    "tabulacaoId": 4
   }
+
+  
 ]
