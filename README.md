@@ -22,8 +22,8 @@ Crie um webservice que receba a entrada das entidades `Gravações` e `Tabulaç�
 | nomeCliente | Texto
 | protocolo | Alfanumérico
 | dataAtendimento | Data e hora
-| numeroBinado | Data e hora
-| numeroAcesso | Data e hora
+| numeroBinado | Alfanumérico
+| numeroAcesso | Alfanumérico
 
 ### Estrutura de dados de `Gravações`
 | Coluna | Tipo |
